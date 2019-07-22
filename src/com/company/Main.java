@@ -8,7 +8,11 @@ public class Main {
 	tree.insert(9, 2.8);
 	tree.insert(12, 9.3);
 	tree.insert(1, 9.8);
-	tree.search(12);
+	System.out.println(tree.search(12));
 
     }
+    
+
+
+
 }
